@@ -4,6 +4,11 @@ tevarindol@github.com:~$ whoami
 
 I'm a developer looking for peace and stability. I have many project ideas, but I can't bring all of them to life.
 
+## Find me
+
+**[Send me an email](mailto:contact@tevarindol.is-a.dev)**  
+**[Find me on Matrix](https://matrix.to/#/@tevarindol:matrix.tevarindol.is-a.dev)**
+
 ## Active stack
 
 | | |
@@ -20,11 +25,6 @@ I'm a developer looking for peace and stability. I have many project ideas, but 
 | **Self-hosted OS** | [![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://salsa.debian.org/) [![](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat-square&logo=alpinelinux&logoColor=white)](https://gitlab.alpinelinux.org/alpine/aports) [![](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)](https://github.com/freebsd/freebsd-src) [![](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)](https://github.com/NixOS/nixpkgs) |
 
 Badges: [shields.io](https://shields.io) · icons: [Simple Icons](https://simpleicons.org)
-
-## My contacts
-
-**Email:** [contact@tevarindol.is-a.dev](mailto:contact@tevarindol.is-a.dev)  
-**Matrix:** [@tevarindol:matrix.tevarindol.is-a.dev](https://matrix.to/#/@tevarindol:matrix.tevarindol.is-a.dev)
 
 ## Numbers
 
